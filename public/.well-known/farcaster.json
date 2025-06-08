@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjI2NTUwNCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGY3ZDQwNDFlNzUxRTBiNGY2ZUE3MkViODJGMmIyMDBEMjc4NzA0QTQifQ",
+    "payload": "eyJkb21haW4iOiJxci1tYXAtbGltZS52ZXJjZWwuYXBwIn0",
+    "signature": "MHhiZGM4MmFjOTE3OTU3MmIyN2E5MWMxYTg4Y2ZhY2MwZTY2OGI1OTY2OWY3ZGQzYTQ2MGJiZWExN2JkMDQyZjYzMjY3ODEzNDY4MGRmYzI4ZjdmMDU3OTk4N2U4OGI2Mzg3NmU5N2ExY2Y3MTI5ZmY0M2U5MDRkMTZhYWM4ZTc2MDFj"
+  },
+  "frame": {
+    "version": "1",
+    "name": "QR Map",
+    "iconUrl": "https://qr-map-lime.vercel.app/logo.png",
+    "homeUrl": "https://qr-map-lime.vercel.app",
+    "imageUrl": "https://qr-map-lime.vercel.app/og.png",
+    "buttonTitle": "QR Map",
+    "splashImageUrl": "https://qr-map-lime.vercel.app/logo.png",
+    "splashBackgroundColor": "#FFFFFF",
+    "webhookUrl": "https://qr-map-lime.vercel.app/api/webhook"
+  }
+}
